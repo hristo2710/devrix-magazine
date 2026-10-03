@@ -167,3 +167,5 @@ function devrix_live_search($request) {
 
     return rest_ensure_response($results);
 }
+
+require_once get_template_directory() . '/inc/devrix-demo-image-import.php';
