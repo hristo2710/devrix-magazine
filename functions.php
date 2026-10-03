@@ -169,3 +169,4 @@ function devrix_live_search($request) {
 }
 
 require_once get_template_directory() . '/inc/devrix-demo-image-import.php';
+require_once get_template_directory() . '/inc/devrix-demo-menu-setup.php';
